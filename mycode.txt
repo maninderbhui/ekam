@@ -3,3 +3,7 @@ the code is intended for good programmers
 <?php
 	echo date("");
 ?>
+Hello Maninder code here
+now i am coding for php
+also work on shell script
+
