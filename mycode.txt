@@ -1,0 +1,5 @@
+Hello world code goes from here 
+the code is intended for good programmers
+<?php
+	echo date("");
+?>
